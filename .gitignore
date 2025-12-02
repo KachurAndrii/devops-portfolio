@@ -1,0 +1,30 @@
+# Node.js
+
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+.venv/
+
+# Docker
+
+*.tar
+docker-compose.override.yml
+
+# System files
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.cache/
